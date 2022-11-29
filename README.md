@@ -1,2 +1,2 @@
-# IntroC-
-Introduction into C++
+# IntroCpp
+C++ Introduction
